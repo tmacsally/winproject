@@ -1,0 +1,110 @@
+#u763
+{
+	background-color: #442715;
+}
+
+#u765,#u761,#u770,#u767
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u769
+{
+	position: relative;
+	background: transparent url("../images/bn_sh-shop_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u769:hover
+{
+	background: transparent url("../images/bn_sh-shop_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u769:active
+{
+	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u769.MuseLinkActive
+{
+	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u764
+{
+	position: relative;
+	background: transparent url("../images/bn_history-history_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u764:hover
+{
+	background: transparent url("../images/bn_history-history_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u764:active
+{
+	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u764.MuseLinkActive
+{
+	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u760
+{
+	position: relative;
+	background: transparent url("../images/bn_oder-oder_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u760:hover
+{
+	background: transparent url("../images/bn_oder-oder_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u760:active
+{
+	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u760.MuseLinkActive
+{
+	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2175
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #372715;
+}
+
+#u763_align_to_page,#u2175_align_to_page
+{
+	position: relative;
+}
+
+#u2271-4
+{
+	background-color: transparent;
+	color: #C7B299;
+	position: relative;
+}
+
+#u2271
+{
+	color: #C7B299;
+}
+
