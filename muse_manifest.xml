@@ -1,0 +1,326 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.iawiaw.idv.tw" resolutions="1x" timestamp="1477466933741">
+  <folder name="css">
+    <file name="site_global.css" crc="294701860"/>
+    <file name="master_d.css" crc="320741938" ref="4:3:1:2"/>
+    <file name="master_e.css" crc="123524761" ref="tradition:international:creative"/>
+    <file name="master_c.css" crc="4123825010" ref="taiwantea"/>
+    <file name="master_b.css" crc="3997034359" ref="shop:order:history"/>
+    <file name="shop.css" crc="4100272581" ref="shop"/>
+    <file name="4.css" crc="278606936" ref="4"/>
+    <file name="3.css" crc="45700644" ref="3"/>
+    <file name="tradition.css" crc="367775735" ref="tradition"/>
+    <file name="international.css" crc="302814074" ref="international"/>
+    <file name="index.css" crc="174807527" ref="index"/>
+    <file name="order.css" crc="240656438" ref="order"/>
+    <file name="1.css" crc="4222503076" ref="1"/>
+    <file name="creative.css" crc="517501766" ref="creative"/>
+    <file name="history.css" crc="3790254848" ref="history"/>
+    <file name="taiwantea.css" crc="401498873" ref="taiwantea"/>
+    <file name="2.css" crc="4268385696" ref="2"/>
+  </folder>
+  <folder name="assets">
+    <folder name="test1024">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1477291918000"/>
+      </folder>
+      <folder name="sugarice">
+        <file name="half_off.png" crc="406772396" mt="1477291918000"/>
+        <file name="half_on.png" crc="295415028" mt="1477291918000"/>
+        <file name="less_off.png" crc="3875773710" mt="1477291918000"/>
+        <file name="less_on.png" crc="118763621" mt="1477291918000"/>
+        <file name="normal_off.png" crc="153917906" mt="1477291918000"/>
+        <file name="normal_on.png" crc="62618688" mt="1477291918000"/>
+        <file name="quter_off.png" crc="11670305" mt="1477291918000"/>
+        <file name="quter_on.png" crc="473876729" mt="1477291918000"/>
+      </folder>
+      <folder name="images">
+        <file name="1204748303.jpg" crc="4156383909" mt="1477291918000"/>
+        <file name="A.png" crc="4216303965" mt="1477291918000"/>
+        <file name="B.png" crc="4006364602" mt="1477291918000"/>
+        <file name="bg.jpg" crc="3899514639" mt="1477291918000"/>
+        <file name="blacktea_o.png" crc="348927578" mt="1477291918000"/>
+        <file name="blacktea_on.png" crc="144038330" mt="1477291918000"/>
+        <file name="brcup.png" crc="145551997" mt="1477291918000"/>
+        <file name="C.png" crc="306129103" mt="1477291918000"/>
+        <file name="cincup.png" crc="3890685050" mt="1477291918000"/>
+        <file name="cin_o.png" crc="3816403389" mt="1477291918000"/>
+        <file name="cin_on.png" crc="260854708" mt="1477291918000"/>
+        <file name="cup.png" crc="279671539" mt="1477291918000"/>
+        <file name="cup1.png" crc="122603420" mt="1477291918000"/>
+        <file name="cup12.png" crc="122603420" mt="1477291918000"/>
+        <file name="cup13.png" crc="122603420" mt="1477291918000"/>
+        <file name="cup2.png" crc="279671539" mt="1477291918000"/>
+        <file name="cup22.png" crc="4241330399" mt="1477291918000"/>
+        <file name="cup23.png" crc="4241330399" mt="1477291918000"/>
+        <file name="cup24.png" crc="4241330399" mt="1477291918000"/>
+        <file name="cup3.png" crc="4053159013" mt="1477291918000"/>
+        <file name="cup32.png" crc="4053159013" mt="1477291918000"/>
+        <file name="cup33.png" crc="4053159013" mt="1477291918000"/>
+        <file name="cup4.png" crc="3875408418" mt="1477291918000"/>
+        <file name="cup42.png" crc="3875408418" mt="1477291918000"/>
+        <file name="cup43.png" crc="3875408418" mt="1477291918000"/>
+        <file name="cup5.png" crc="279671539" mt="1477291918000"/>
+        <file name="cup6.png" crc="279671539" mt="1477291918000"/>
+        <file name="D.png" crc="3785822458" mt="1477291918000"/>
+        <file name="E.png" crc="360525344" mt="1477291918000"/>
+        <file name="finish.jpg" crc="4213618744" mt="1477291918000"/>
+        <file name="finish0.jpg" crc="3998820858" mt="1477291918000"/>
+        <file name="finish1.jpg" crc="3970219127" mt="1477291918000"/>
+        <file name="finish2.jpg" crc="4213618744" mt="1477291918000"/>
+        <file name="finish3.jpg" crc="4213618744" mt="1477291918000"/>
+        <file name="finish4.jpg" crc="78197624" mt="1477291918000"/>
+        <file name="GrassJellyBlocks.jpg" crc="32062749" mt="1477291918000"/>
+        <file name="greencup.png" crc="338810640" mt="1477291918000"/>
+        <file name="greencup2.png" crc="338810640" mt="1477291918000"/>
+        <file name="greencup3.png" crc="338810640" mt="1477291918000"/>
+        <file name="greentea_o.png" crc="3882227168" mt="1477291918000"/>
+        <file name="greentea_on.png" crc="3881213182" mt="1477291918000"/>
+        <file name="ice.jpg" crc="4268129100" mt="1477291918000"/>
+        <file name="ice2.jpg" crc="4268129100" mt="1477291918000"/>
+        <file name="ice_off.jpg" crc="17438017" mt="1477291918000"/>
+        <file name="ice_on.jpg" crc="61009016" mt="1477291918000"/>
+        <file name="icon.png" crc="3847474632" mt="1477291918000"/>
+        <file name="liau1.jpg" crc="3844830355" mt="1477291918000"/>
+        <file name="liau1.png" crc="4268956010" mt="1477291918000"/>
+        <file name="liau2.jpg" crc="181163558" mt="1477291918000"/>
+        <file name="liau2.png" crc="3901320800" mt="1477291918000"/>
+        <file name="liau3.jpg" crc="169204177" mt="1477291918000"/>
+        <file name="liau3.png" crc="4088609117" mt="1477291918000"/>
+        <file name="liau4.jpg" crc="8865213" mt="1477291918000"/>
+        <file name="liau4.png" crc="3940034046" mt="1477291918000"/>
+        <file name="liau_off.jpg" crc="4095317524" mt="1477291918000"/>
+        <file name="liau_on.jpg" crc="3921552708" mt="1477291918000"/>
+        <file name="newcup.png" crc="70275708" mt="1477291918000"/>
+        <file name="newcup2.png" crc="70275708" mt="1477291918000"/>
+        <file name="nextpage.png" crc="389371112" mt="1477291918000"/>
+        <file name="p5778222a775730748.jpg" crc="76181487" mt="1477291918000"/>
+        <file name="play.png" crc="4218958834" mt="1477291918000"/>
+        <file name="play2.png" crc="3939018235" mt="1477291918000"/>
+        <file name="Poster.png" crc="3847474632" mt="1477291918000"/>
+        <file name="redcup.png" crc="312231822" mt="1477291918000"/>
+        <file name="redcup2.png" crc="312231822" mt="1477291918000"/>
+        <file name="redcup3.png" crc="312231822" mt="1477291918000"/>
+        <file name="shaker.png" crc="4197238169" mt="1477291918000"/>
+        <file name="shaker2.png" crc="99307305" mt="1477291918000"/>
+        <file name="shaker3.png" crc="454163788" mt="1477291918000"/>
+        <file name="sugar.jpg" crc="4025354434" mt="1477291918000"/>
+        <file name="sugar2.jpg" crc="237995147" mt="1477291918000"/>
+        <file name="tea_off.jpg" crc="497774531" mt="1477291918000"/>
+        <file name="tea_on.jpg" crc="3964424977" mt="1477291918000"/>
+        <file name="tia_o.png" crc="505851258" mt="1477291918000"/>
+        <file name="tia_on.png" crc="3869772970" mt="1477291918000"/>
+      </folder>
+      <file name="test1024_edge.js" crc="387630110" mt="1477291918000"/>
+      <file name="test1024.html" crc="243320990" mt="1477291918000"/>
+    </folder>
+    <file name="fin1.oam" crc="4285466865" seo="true" mt="1477041503000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:shop:history:order:taiwantea:creative:tradition:international:1:2:3:4"/>
+    <file name="museutils.js" crc="183364071" ref="index:shop:history:order:taiwantea:creative:tradition:international:1:2:3:4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:shop:history:taiwantea:creative:1"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:shop:history:order:taiwantea:creative:tradition:international:1:2:3:4"/>
+    <file name="webpro.js" crc="3803554875" ref="index:shop:history:creative:tradition:international"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:shop:history:creative:tradition:international"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:shop:history:creative:tradition:international"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:shop:history:creative:tradition:international"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u346.php" crc="201895647" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="shop:history:creative:tradition:international:1"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="creative:tradition:international:1:2:3:4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="creative:tradition:international:1:2:3:4"/>
+  </folder>
+  <folder name="images">
+    <file name="all.jpg" crc="3797453205" ref="index"/>
+    <file name="bg11160x529.jpg" crc="4176794100" seo="true" ref="index"/>
+    <file name="img_logo-crop-u602.png" crc="3909238075" ref="index"/>
+    <file name="icn_oder-crop-u617.png" crc="4285690341" ref="index"/>
+    <file name="icn_history-crop-u611.png" crc="179889446" ref="index"/>
+    <file name="icn_shop-crop-u622.png" crc="4064109979" ref="index"/>
+    <file name="img_bubble-crop-u584.png" crc="42949392" ref="index"/>
+    <file name="img_sugar-crop-u590.png" crc="149918193" ref="index"/>
+    <file name="img_tea-crop-u595.png" crc="4098091327" ref="index"/>
+    <file name="img_1-crop-u578.png" crc="397065651" ref="index"/>
+    <file name="bn_sh-u661-fr.png" crc="111635155" ref="index"/>
+    <file name="bn_sh-u661-r-fr.png" crc="355811876" ref="index"/>
+    <file name="bn_sh-u661-m-fr.png" crc="4158191336" ref="index"/>
+    <file name="bn_history-u677-fr.png" crc="441944081" ref="index"/>
+    <file name="bn_history-u677-r-fr.png" crc="65930413" ref="index"/>
+    <file name="bn_history-u677-m-fr.png" crc="101217668" ref="index"/>
+    <file name="bn_oder-u693-fr.png" crc="203283142" ref="index"/>
+    <file name="bn_oder-u693-r-fr.png" crc="129821983" ref="index"/>
+    <file name="bn_oder-u693-m-fr.png" crc="496938756" ref="index"/>
+    <file name="bg2.jpg" crc="349835815" seo="true" ref="index"/>
+    <file name="icn_shaker.png" crc="4150825756" seo="true" ref="index"/>
+    <file name="icn_timer.png" crc="3871184767" seo="true" ref="index"/>
+    <file name="u810-4.png" crc="3871142806" ref="index"/>
+    <file name="icn_spot.png" crc="4046951048" seo="true" ref="index"/>
+    <file name="u811-4.png" crc="4188511693" ref="index"/>
+    <file name="u188-4.png" crc="341304237" ref="index"/>
+    <file name="u808-4.png" crc="523557154" ref="index"/>
+    <file name="dsc_0093-crop-u368.jpg" crc="3915656621" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:history:creative:tradition:international:1:2:3:4"/>
+    <file name="dsc_0163-crop-u400.jpg" crc="13679569" ref="index"/>
+    <file name="dsc_0171-crop-u409.jpg" crc="59347212" ref="index"/>
+    <file name="photo-1455157823797-3019317cbcf0-crop-u418.jpg" crc="3764403099" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:creative:tradition"/>
+    <file name="bg_up.png" crc="4255632153" ref="index"/>
+    <file name="a.jpg" crc="3889131679" seo="true" ref="index"/>
+    <file name="b.jpg" crc="28191179" seo="true" ref="index"/>
+    <file name="c.jpg" crc="4156029258" seo="true" ref="index"/>
+    <file name="bg4.jpg" crc="508115806" ref="index"/>
+    <file name="u357-17.png" crc="105268991" ref="index"/>
+    <file name="u357-17-r.png" crc="4164388565" ref="index"/>
+    <file name="u357-17-m.png" crc="68713276" ref="index"/>
+    <file name="u357-17-fs.png" crc="482179192" ref="index"/>
+    <file name="u2226-8.png" crc="3787187440" ref="index"/>
+    <file name="bg1.jpg" crc="230449195" ref="shop:history:order:taiwantea:creative:tradition:international:1:2:3:4"/>
+    <file name="img_logo-crop-u739.png" crc="3909238075" ref="shop:history:order"/>
+    <file name="icn_oder-crop-u743.png" crc="31662737" ref="shop:history:order"/>
+    <file name="icn_history-crop-u741.png" crc="97474088" ref="shop:history:order"/>
+    <file name="icn_shop-crop-u745.png" crc="3899698328" ref="shop:history:order"/>
+    <file name="bn_sh-shop_normal.png" crc="4083246126" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_sh-shop_over.png" crc="482701525" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_sh-shop_down.png" crc="4052415253" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_history-history_normal.png" crc="3869480115" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_history-history_over.png" crc="3923908980" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_history-history_down.png" crc="4208518046" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_oder-oder_normal.png" crc="3935848422" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_oder-oder_over.png" crc="341813659" ref="shop:taiwantea:creative:1"/>
+    <file name="bn_oder-oder_down.png" crc="520164610" ref="shop:taiwantea:creative:1"/>
+    <file name="a2.jpg" crc="3766960479" ref="shop"/>
+    <file name="b2.jpg" crc="4157512868" ref="shop"/>
+    <file name="c2.jpg" crc="3903330827" ref="shop"/>
+    <file name="d1705085.jpg" crc="3843087906" seo="true" ref="shop"/>
+    <file name="dsc_0163630x420.jpg" crc="3767969465" seo="true" ref="shop"/>
+    <file name="c700x420.jpg" crc="357957570" seo="true" ref="shop"/>
+    <file name="u1120-4.png" crc="3777550260" ref="shop"/>
+    <file name="u1122-4.png" crc="3828585671" ref="shop"/>
+    <file name="u1132-4.png" crc="23494875" ref="shop"/>
+    <file name="bg_up-crop-u909.png" crc="157388742" ref="history"/>
+    <file name="u932-13.png" crc="4156098555" ref="history"/>
+    <file name="photo-1470162656305-6f429ba817bf.jpg" crc="197638095" ref="history"/>
+    <file name="u927-11.png" crc="262945076" ref="history"/>
+    <file name="u995_states.png" crc="4145843009" ref="history"/>
+    <file name="u995_states-r.png" crc="4138555796" ref="history"/>
+    <file name="ca201503013-網站露出-02.jpg" crc="255044039" ref="history"/>
+    <file name="u922-4.png" crc="3893481874" ref="history"/>
+    <file name="u1011_states.png" crc="4145843009" ref="history"/>
+    <file name="u1011_states-r.png" crc="4138555796" ref="history"/>
+    <file name="u942.png" crc="3822632759" ref="history"/>
+    <file name="u942-r.png" crc="340549063" ref="history"/>
+    <file name="u942-a.png" crc="340549063" ref="history"/>
+    <file name="u944.png" crc="169677127" ref="history"/>
+    <file name="u944-r.png" crc="4143111195" ref="history"/>
+    <file name="u944-a.png" crc="4143111195" ref="history"/>
+    <file name="u940.png" crc="4095929900" ref="history"/>
+    <file name="u940-r.png" crc="228085581" ref="history"/>
+    <file name="u940-a.png" crc="228085581" ref="history"/>
+    <file name="u2173-15.png" crc="4129298128" ref="order"/>
+    <file name="img_logo-crop-u765.png" crc="3909238075" ref="taiwantea"/>
+    <file name="icn_oder-crop-u761.png" crc="31662737" ref="taiwantea"/>
+    <file name="icn_history-crop-u770.png" crc="97474088" ref="taiwantea"/>
+    <file name="icn_shop-crop-u767.png" crc="3899698328" ref="taiwantea"/>
+    <file name="teaintro.jpg" crc="4136747370" seo="true" ref="taiwantea"/>
+    <file name="u1419-4.png" crc="4287822746" ref="taiwantea"/>
+    <file name="nextpage.png" crc="389371112" seo="true" ref="taiwantea"/>
+    <file name="img_logo-crop-u1507.png" crc="3909238075" ref="creative:tradition:international"/>
+    <file name="icn_oder-crop-u1476.png" crc="31662737" ref="creative:tradition:international"/>
+    <file name="icn_history-crop-u1516.png" crc="97474088" ref="creative:tradition:international"/>
+    <file name="icn_shop-crop-u1511.png" crc="3899698328" ref="creative:tradition:international"/>
+    <file name="u1485-4.png" crc="4027098111" ref="creative:tradition:international"/>
+    <file name="u1488.png" crc="4194232839" ref="creative:tradition:international"/>
+    <file name="u1488-a.png" crc="4151726269" ref="creative:tradition:international"/>
+    <file name="u1504.png" crc="517827854" ref="creative:tradition:international"/>
+    <file name="u1504-a.png" crc="4140617297" ref="creative:tradition:international"/>
+    <file name="001.jpg" crc="4213022222" seo="true" ref="creative"/>
+    <file name="004.jpg" crc="6448719" seo="true" ref="creative"/>
+    <file name="img_3801.jpg" crc="302464376" seo="true" ref="creative"/>
+    <file name="201512111706541716.jpg" crc="260841406" seo="true" ref="creative"/>
+    <file name="d1705089.jpg" crc="4236074348" seo="true" ref="creative"/>
+    <file name="005.jpg" crc="413317960" seo="true" ref="creative"/>
+    <file name="10012-crop-u1724.jpg" crc="218912716" ref="creative"/>
+    <file name="15475_820036711352397_3734007011889762784_n-crop-u1733.jpg" crc="4085969210" ref="creative"/>
+    <file name="img_3801-crop-u1742.jpg" crc="176319336" ref="creative"/>
+    <file name="201512111706541716-crop-u1772.jpg" crc="4239033655" ref="creative"/>
+    <file name="d1705089-crop-u1700.jpg" crc="3760023243" ref="creative"/>
+    <file name="1452424871-1188623016-crop-u1649.jpg" crc="3852513920" ref="creative"/>
+    <file name="u1727-4.png" crc="150828406" ref="creative"/>
+    <file name="u1736-4.png" crc="4175055402" ref="creative"/>
+    <file name="u1745-4.png" crc="3879665353" ref="creative"/>
+    <file name="u1775-4.png" crc="3926192066" ref="creative"/>
+    <file name="u1703-4.png" crc="533945575" ref="creative"/>
+    <file name="u1652-4.png" crc="502579829" ref="creative"/>
+    <file name="u1792-4.png" crc="4071042070" ref="creative"/>
+    <file name="u1795-4.png" crc="128948274" ref="creative"/>
+    <file name="u1797-4.png" crc="4189032185" ref="creative"/>
+    <file name="u1799-4.png" crc="141169004" ref="creative"/>
+    <file name="u1801-4.png" crc="3866880159" ref="creative"/>
+    <file name="u1803-4.png" crc="3886933760" ref="creative"/>
+    <file name="xiancao-tea.jpg" crc="189633896" seo="true" ref="tradition"/>
+    <file name="2786785_b_nm4t7.jpg" crc="43730706" seo="true" ref="tradition"/>
+    <file name="images (2).jpg" crc="4092350108" seo="true" ref="tradition"/>
+    <file name="20160427095132.jpg" crc="383146530" seo="true" ref="tradition"/>
+    <file name="2786785_b_nm4t7-crop-u1832.jpg" crc="39492664" ref="tradition"/>
+    <file name="news80204.jpg" crc="4211331288" seo="true" ref="tradition"/>
+    <file name="20160427095132-crop-u1830.jpg" crc="40479773" ref="tradition"/>
+    <file name="u1853-4.png" crc="4257960273" ref="tradition"/>
+    <file name="u1856-4.png" crc="4233193376" ref="tradition"/>
+    <file name="u1857-4.png" crc="419589208" ref="tradition"/>
+    <file name="u1858-4.png" crc="3932168893" ref="tradition"/>
+    <file name="u1860-4.png" crc="45656464" ref="tradition"/>
+    <file name="u1862-4.png" crc="204025280" ref="tradition"/>
+    <file name="u1864-4.png" crc="4076753997" ref="tradition"/>
+    <file name="u1866-4.png" crc="131638872" ref="tradition"/>
+    <file name="mp.jpg" crc="3802538511" seo="true" ref="international"/>
+    <file name="u1948-8.png" crc="3860140839" ref="international"/>
+    <file name="u2114-4.png" crc="168575765" ref="international"/>
+    <file name="u1943-8.png" crc="3919686048" ref="international"/>
+    <file name="u2108-4.png" crc="4182316789" ref="international"/>
+    <file name="u1938-8.png" crc="439404629" ref="international"/>
+    <file name="u2084-4.png" crc="270481808" ref="international"/>
+    <file name="u1972.png" crc="3821453755" ref="international"/>
+    <file name="u1972-a.png" crc="4131027489" ref="international"/>
+    <file name="u1976.png" crc="3777160518" ref="international"/>
+    <file name="u1976-a.png" crc="3820751392" ref="international"/>
+    <file name="u1975.png" crc="196068586" ref="international"/>
+    <file name="u1975-a.png" crc="345448150" ref="international"/>
+    <file name="img_logo-crop-u1305.png" crc="3909238075" ref="1:2:3:4"/>
+    <file name="icn_oder-crop-u1307.png" crc="31662737" ref="1:2:3:4"/>
+    <file name="icn_history-crop-u1310.png" crc="97474088" ref="1:2:3:4"/>
+    <file name="icn_shop-crop-u1315.png" crc="3899698328" ref="1:2:3:4"/>
+    <file name="bg_up-crop-u1322.png" crc="4238993535" ref="1:2:3:4"/>
+    <file name="u1343-4.png" crc="268514430" ref="1:2:3:4"/>
+    <file name="u1330.png" crc="4197400928" ref="1:2:3:4"/>
+    <file name="u1330-a.png" crc="4096212703" ref="1:2:3:4"/>
+    <file name="u1337.png" crc="184141123" ref="1:2:3:4"/>
+    <file name="u1337-a.png" crc="3961823921" ref="1:2:3:4"/>
+    <file name="u1352.png" crc="524435405" ref="1:2:3:4"/>
+    <file name="u1352-a.png" crc="3914234951" ref="1:2:3:4"/>
+    <file name="u1231-10.png" crc="4195683161" ref="1"/>
+    <file name="dsc_0171584x390.jpg" crc="263661353" seo="true" ref="1"/>
+    <file name="bg_up-crop-u1383.png" crc="154734929" ref="2"/>
+    <file name="320804957_m.jpg" crc="93151105" seo="true" ref="2"/>
+    <file name="320805175_m.jpg" crc="190474044" seo="true" ref="2"/>
+    <file name="phpvdtkhw.jpg" crc="3885629715" seo="true" ref="2"/>
+    <file name="u1382-12.png" crc="3866349883" ref="2"/>
+    <file name="u1386-10.png" crc="4176884345" ref="3"/>
+    <file name="001ec94a1ea10f97843832.jpg" crc="4083580876" seo="true" ref="3"/>
+    <file name="u1402-9.png" crc="4009772449" ref="4"/>
+    <file name="dd.jpg" crc="111586862" seo="true" ref="4"/>
+  </folder>
+  <file name="index.html" crc="4132024322" seo="true" mt="1477466867444" redirect="true"/>
+  <file name="shop.html" crc="4041585548" seo="true" mt="1477466503638" redirect="true"/>
+  <file name="history.html" crc="4039898560" seo="true" mt="1477466503638" redirect="true"/>
+  <file name="order.html" crc="4113055226" seo="true" mt="1477466503638" redirect="true"/>
+  <file name="taiwantea.html" crc="119085951" seo="true" mt="1477466513917" redirect="true"/>
+  <file name="creative.html" crc="94729009" seo="true" mt="1477466534638" redirect="true"/>
+  <file name="tradition.html" crc="149042168" seo="true" mt="1477466534638" redirect="true"/>
+  <file name="international.html" crc="120897179" seo="true" mt="1477466534638" redirect="true"/>
+  <file name="1.html" crc="72128345" seo="true" mt="1477466524123" redirect="true"/>
+  <file name="2.html" crc="3996595051" seo="true" mt="1477466524123" redirect="true"/>
+  <file name="3.html" crc="415529737" seo="true" mt="1477466524123" redirect="true"/>
+  <file name="4.html" crc="117549279" seo="true" mt="1477466524123" redirect="true"/>
+</manifest>
