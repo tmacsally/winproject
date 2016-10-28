@@ -1,78 +1,78 @@
-#u1513
+#u2568
 {
 	background-color: #442715;
 }
 
-#u1515
+#u2577
 {
 	position: relative;
 	background: transparent url("../images/bn_sh-shop_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1515:hover
+#u2577:hover
 {
 	background: transparent url("../images/bn_sh-shop_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1515:active
+#u2577:active
 {
 	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1515.MuseLinkActive
+#u2577.MuseLinkActive
 {
 	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1514
+#u2578
 {
 	position: relative;
 	background: transparent url("../images/bn_history-history_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1514:hover
+#u2578:hover
 {
 	background: transparent url("../images/bn_history-history_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1514:active
+#u2578:active
 {
 	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1514.MuseLinkActive
+#u2578.MuseLinkActive
 {
 	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1518
+#u2579
 {
 	position: relative;
 	background: transparent url("../images/bn_oder-oder_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1518:hover
+#u2579:hover
 {
 	background: transparent url("../images/bn_oder-oder_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1518:active
+#u2579:active
 {
 	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u1518.MuseLinkActive
+#u2579.MuseLinkActive
 {
 	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
 	background-size: contain;
@@ -169,7 +169,7 @@
 	background: url("../images/u1488-a.png") no-repeat 0px 0px;
 }
 
-#u1507,#u1476,#u1516,#u1511,#u1479,#u1486,#u1500
+#u2569,#u2573,#u2571,#u2575,#u1479,#u1486,#u1500
 {
 	background-color: transparent;
 	position: relative;
@@ -229,7 +229,7 @@
 	background-color: #372715;
 }
 
-#u1513_align_to_page,#u1485-4,#u2177_align_to_page
+#u2568_align_to_page,#u1485-4,#u2177_align_to_page
 {
 	position: relative;
 }

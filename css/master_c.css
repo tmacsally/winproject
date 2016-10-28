@@ -1,84 +1,84 @@
-#u763
+#u2536
 {
 	background-color: #442715;
 }
 
-#u765,#u761,#u770,#u767
+#u2537,#u2541,#u2539,#u2543
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u769
+#u2545
 {
 	position: relative;
 	background: transparent url("../images/bn_sh-shop_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u769:hover
+#u2545:hover
 {
 	background: transparent url("../images/bn_sh-shop_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u769:active
+#u2545:active
 {
 	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u769.MuseLinkActive
+#u2545.MuseLinkActive
 {
 	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u764
+#u2546
 {
 	position: relative;
 	background: transparent url("../images/bn_history-history_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u764:hover
+#u2546:hover
 {
 	background: transparent url("../images/bn_history-history_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u764:active
+#u2546:active
 {
 	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u764.MuseLinkActive
+#u2546.MuseLinkActive
 {
 	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u760
+#u2547
 {
 	position: relative;
 	background: transparent url("../images/bn_oder-oder_normal.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u760:hover
+#u2547:hover
 {
 	background: transparent url("../images/bn_oder-oder_over.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u760:active
+#u2547:active
 {
 	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u760.MuseLinkActive
+#u2547.MuseLinkActive
 {
 	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
 	background-size: contain;
@@ -91,7 +91,7 @@
 	background-color: #372715;
 }
 
-#u763_align_to_page,#u2175_align_to_page
+#u2536_align_to_page,#u2175_align_to_page
 {
 	position: relative;
 }

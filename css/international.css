@@ -1,7 +1,7 @@
 .version.international /* version checker */
 {
-	color: #000012;
-	background-color: #0C937A;
+	color: #00001B;
+	background-color: #E4AC72;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 798.9610733823803px;
+	min-height: 798.956518583043px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -28,161 +28,161 @@
 	width: 0.01px;
 }
 
-#pu1513
+#pu2568
 {
 	width: 0.01px;
 	margin-left: -100px;
 }
 
-#u1513
+#u2568
 {
-	z-index: 2;
-	min-height: 125px;
-	padding-bottom: 25px;
+	z-index: 24;
+	min-height: 101px;
+	padding-bottom: 9px;
 }
 
-#u1507
+#u2569
 {
-	z-index: 3;
+	z-index: 25;
 	width: 336px;
 	margin-right: -10000px;
-	margin-top: 39px;
-	left: 45px;
+	margin-top: 15px;
+	left: 120px;
 }
 
-#u1476
+#u2573
 {
-	z-index: 7;
-	width: 96px;
+	z-index: 29;
+	width: 80px;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 646px;
+	margin-top: 4px;
+	left: 682px;
 }
 
-#u1516
+#u2571
 {
-	z-index: 5;
-	width: 85px;
+	z-index: 27;
+	width: 71px;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 771px;
+	margin-top: 4px;
+	left: 786px;
 }
 
-#u1511
+#u2575
 {
-	z-index: 9;
-	width: 107px;
+	z-index: 31;
+	width: 89px;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 886px;
+	margin-top: 4px;
+	left: 883px;
 }
 
-#u1513-bw
+#u2568-bw
 {
-	z-index: 2;
-	min-height: 125px;
+	z-index: 24;
+	min-height: 101px;
 }
 
-#u1515
+#u2577
 {
-	z-index: 11;
-	width: 138px;
-	height: 47px;
+	z-index: 33;
+	width: 115px;
+	height: 39px;
 	margin-right: -10000px;
-	margin-top: 86px;
+	margin-top: 66px;
 	left: 870px;
 }
 
-#u1515:hover
+#u2577:hover
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 86px -10000px 0px 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
-#u1515:active
+#u2577:active
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 86px -10000px 0px 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
-#u1514
+#u2578
 {
-	z-index: 12;
-	width: 138px;
-	height: 47px;
+	z-index: 34;
+	width: 115px;
+	height: 39px;
 	margin-right: -10000px;
-	margin-top: 87px;
-	left: 746px;
+	margin-top: 67px;
+	left: 765px;
 }
 
-#u1514:hover
+#u2578:hover
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 87px -10000px 0px 0px;
+	margin: 67px -10000px 0px 0px;
 }
 
-#u1514:active
+#u2578:active
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 87px -10000px 0px 0px;
+	margin: 67px -10000px 0px 0px;
 }
 
-#u1514.MuseLinkActive
+#u2578.MuseLinkActive
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 87px -10000px 0px 0px;
+	margin: 67px -10000px 0px 0px;
 }
 
-#u1518
+#u2579
 {
-	z-index: 13;
-	width: 138px;
-	height: 47px;
+	z-index: 35;
+	width: 115px;
+	height: 39px;
 	margin-right: -10000px;
-	margin-top: 86px;
-	left: 621px;
+	margin-top: 66px;
+	left: 661px;
 }
 
-#u1515.MuseLinkActive,#u1518:hover
+#u2577.MuseLinkActive,#u2579:hover
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 86px -10000px 0px 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
-#u1518:active
+#u2579:active
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 86px -10000px 0px 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
-#u1518.MuseLinkActive
+#u2579.MuseLinkActive
 {
-	width: 138px;
-	height: 47px;
+	width: 115px;
+	height: 39px;
 	min-height: 0px;
-	margin: 86px -10000px 0px 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
 #menuu1478
 {
-	z-index: 14;
+	z-index: 2;
 	width: 605px;
-	margin-left: 188px;
-	margin-top: 32px;
+	margin-left: 183px;
+	margin-top: 40px;
 }
 
 #u1479
@@ -313,7 +313,7 @@
 #pu1924
 {
 	width: 0.01px;
-	margin-top: 41px;
+	margin-top: 33px;
 }
 
 #u1924
@@ -700,12 +700,12 @@
 
 #u2177
 {
-	z-index: 31;
+	z-index: 19;
 	min-height: 65px;
 	padding-bottom: 35px;
 }
 
-#u1513_align_to_page,#u2177_align_to_page
+#u2568_align_to_page,#u2177_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -715,7 +715,7 @@
 
 #u2273-4
 {
-	z-index: 32;
+	z-index: 20;
 	width: 472px;
 	min-height: 29px;
 	margin-right: -10000px;
@@ -725,7 +725,7 @@
 
 #u2177-bw
 {
-	z-index: 31;
+	z-index: 19;
 	min-height: 65px;
 	margin-top: 92px;
 }
