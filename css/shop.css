@@ -1,7 +1,7 @@
 .version.shop /* version checker */
 {
-	color: #0000EA;
-	background-color: #67742E;
+	color: #0000F6;
+	background-color: #FBD759;
 }
 
 .html
@@ -23,11 +23,6 @@
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	width: 0.01px;
-}
-
 #pu738
 {
 	width: 0.01px;
@@ -37,8 +32,8 @@
 #u738
 {
 	z-index: 2;
-	min-height: 101px;
-	padding-bottom: 19px;
+	min-height: 113px;
+	padding-bottom: 7px;
 }
 
 #u739
@@ -50,13 +45,24 @@
 	left: 120px;
 }
 
+#ppu743
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	margin-left: 683px;
+}
+
+#page_position_content,#pu743
+{
+	width: 0.01px;
+}
+
 #u743
 {
 	z-index: 7;
 	width: 80px;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 682px;
 }
 
 #u741
@@ -64,203 +70,106 @@
 	z-index: 5;
 	width: 71px;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 786px;
-}
-
-#u745
-{
-	z-index: 9;
-	width: 89px;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 883px;
-}
-
-#u738-bw
-{
-	z-index: 2;
-	min-height: 101px;
-}
-
-#u747
-{
-	z-index: 11;
-	width: 115px;
-	height: 39px;
-	margin-right: -10000px;
-	margin-top: 66px;
-	left: 870px;
-}
-
-#u747:hover
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u747:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u748
-{
-	z-index: 12;
-	width: 115px;
-	height: 39px;
-	margin-right: -10000px;
-	margin-top: 67px;
-	left: 765px;
-}
-
-#u748:hover
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u748:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u748.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u749
-{
-	z-index: 13;
-	width: 115px;
-	height: 39px;
-	margin-right: -10000px;
-	margin-top: 66px;
-	left: 661px;
-}
-
-#u747.MuseLinkActive,#u749:hover
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u749:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u749.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	left: 107px;
 }
 
 #menuu2281
 {
-	z-index: 19;
-	width: 117px;
+	z-index: 16;
+	width: 107px;
+	margin-left: 77px;
+	margin-top: 11px;
+}
+
+#u2282
+{
+	width: 107px;
+	min-height: 36px;
 	margin-right: -10000px;
-	margin-top: 68px;
-	left: 768px;
 }
 
 #u2285
 {
-	width: 117px;
+	width: 107px;
 	padding-bottom: 19px;
+}
+
+#u2285.MuseMenuActive
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u2286-3
 {
-	width: 117px;
+	width: 107px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 9px;
 }
 
+#u2285.MuseMenuActive #u2286-3
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 107px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2311
 {
-	width: 109px;
+	width: 110px;
 	padding-bottom: 17px;
 	margin-right: -10000px;
 }
 
 #u2311:hover
 {
-	width: 109px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2313
-{
-	height: 23px;
-	width: 104px;
-	margin-right: -10000px;
-	top: 9px;
-	left: 3px;
-}
-
 #u2335
 {
-	width: 109px;
+	width: 110px;
 	padding-bottom: 9px;
 	margin-right: -10000px;
 }
 
 #u2311.MuseMenuActive,#u2335:hover
 {
-	width: 109px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u2328
 {
-	width: 109px;
+	width: 110px;
 	padding-bottom: 15px;
 	margin-right: -10000px;
 }
 
 #u2335.MuseMenuActive,#u2328:hover
 {
-	width: 109px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u2321
 {
-	width: 109px;
+	width: 110px;
 	padding-bottom: 15px;
 	margin-right: -10000px;
 }
 
 #u2328.MuseMenuActive,#u2321:hover
 {
-	width: 109px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
@@ -268,58 +177,58 @@
 #u2329,#u2322
 {
 	height: 23px;
-	width: 104px;
+	width: 106px;
 	margin-right: -10000px;
-	top: 8px;
-	left: 3px;
-}
-
-#u2310,#u2332,#u2325,#u2318,#u2345
-{
-	width: 110px;
-	padding-bottom: 1px;
+	top: 7px;
+	left: 2px;
 }
 
 #u2348
 {
-	width: 109px;
+	width: 110px;
 	padding-bottom: 10px;
 	margin-right: -10000px;
 }
 
 #u2321.MuseMenuActive,#u2348:hover
 {
-	width: 109px;
+	width: 110px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2348.MuseMenuActive
-{
-	width: 109px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2336,#u2351
+#u2351
 {
 	height: 23px;
-	width: 104px;
+	width: 106px;
 	margin-right: -10000px;
 	top: 5px;
-	left: 3px;
+	left: 2px;
+}
+
+#pu745
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	margin-left: 877px;
+}
+
+#u745
+{
+	z-index: 9;
+	width: 89px;
+	margin-left: 6px;
 }
 
 #menuu2399
 {
-	z-index: 52;
+	z-index: 49;
 	width: 117px;
-	margin-right: -10000px;
-	margin-top: 69px;
-	left: 878px;
+	margin-top: 11px;
 }
 
-#u2282,#u2400
+#u2400
 {
 	width: 117px;
 	min-height: 36px;
@@ -332,7 +241,7 @@
 	padding-bottom: 19px;
 }
 
-#u2285.MuseMenuActive,#u2401.MuseMenuActive
+#u2401.MuseMenuActive
 {
 	width: 117px;
 	min-height: 0px;
@@ -347,7 +256,7 @@
 	top: 9px;
 }
 
-#u2285.MuseMenuActive #u2286-3,#u2401.MuseMenuActive #u2402-3
+#u2401.MuseMenuActive #u2402-3
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -369,7 +278,7 @@
 	margin-right: -10000px;
 }
 
-#u2417:hover
+#u2348.MuseMenuActive,#u2417:hover
 {
 	width: 110px;
 	min-height: 0px;
@@ -390,7 +299,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2419,#u2445
+#u2313,#u2419,#u2445
 {
 	height: 23px;
 	width: 106px;
@@ -399,7 +308,7 @@
 	left: 2px;
 }
 
-#u2284,#u2406,#u2414,#u2442,#u2435
+#u2284,#u2310,#u2332,#u2325,#u2318,#u2345,#u2406,#u2414,#u2442,#u2435
 {
 	width: 110px;
 }
@@ -425,13 +334,81 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2437
+#u2336,#u2437
 {
 	height: 23px;
 	width: 106px;
 	margin-right: -10000px;
 	top: 4px;
 	left: 2px;
+}
+
+#u738-bw
+{
+	z-index: 2;
+	min-height: 113px;
+}
+
+#u2753
+{
+	z-index: 72;
+	width: 138px;
+	height: 47px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 648px;
+}
+
+#u2753:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u2754
+{
+	z-index: 73;
+	width: 138px;
+	height: 47px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 859px;
+}
+
+#u2753.MuseLinkActive,#u2754:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u2755
+{
+	z-index: 74;
+	width: 138px;
+	height: 47px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 756px;
+}
+
+#u2754.MuseLinkActive,#u2755:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u2755.MuseLinkActive
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 66px -10000px 0px 0px;
 }
 
 #pamphletu1012
@@ -572,8 +549,8 @@
 	background-color: #1A1A1A;
 	padding-left: 10px;
 	padding-top: 10px;
-	line-height: 20px;
 	color: #DEDEDE;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -613,8 +590,8 @@
 	background-color: #101010;
 	padding-left: 10px;
 	padding-top: 10px;
-	line-height: 20px;
 	color: #DEDEDE;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -655,8 +632,8 @@
 	background-color: #151515;
 	padding-left: 10px;
 	padding-top: 10px;
-	line-height: 20px;
 	color: #DEDEDE;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -684,8 +661,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #999999;
-	text-align: center;
 	line-height: 14px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -723,8 +700,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #999999;
-	text-align: center;
 	line-height: 14px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -781,8 +758,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -875,7 +852,7 @@
 
 #u2174
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 48px;
 	padding-bottom: 18px;
 }
@@ -890,7 +867,7 @@
 
 #u2270-4
 {
-	z-index: 15;
+	z-index: 12;
 	width: 472px;
 	min-height: 29px;
 	margin-right: -10000px;
@@ -900,7 +877,7 @@
 
 #u2174-bw
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 48px;
 	margin-top: 80px;
 }

@@ -1,7 +1,7 @@
 .version.taiwantea /* version checker */
 {
-	color: #000002;
-	background-color: #9ADDCB;
+	color: #000015;
+	background-color: #F53B5F;
 }
 
 .html
@@ -66,7 +66,7 @@
 	width: 71px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 786px;
+	left: 792px;
 }
 
 #u2543
@@ -75,7 +75,7 @@
 	width: 89px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 883px;
+	left: 888px;
 }
 
 #u2536-bw
@@ -84,98 +84,66 @@
 	min-height: 101px;
 }
 
-#u2545
+#u2756
 {
 	z-index: 16;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 870px;
+	margin-top: 63px;
+	left: 648px;
 }
 
-#u2545:hover
+#u2756:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2545:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u2546
+#u2757
 {
 	z-index: 17;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 67px;
-	left: 765px;
+	margin-top: 63px;
+	left: 864px;
 }
 
-#u2546:hover
+#u2756.MuseLinkActive,#u2757:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2546:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u2546.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u2547
+#u2758
 {
 	z-index: 18;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 661px;
+	margin-top: 63px;
+	left: 756px;
 }
 
-#u2545.MuseLinkActive,#u2547:hover
+#u2757.MuseLinkActive,#u2758:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2547:active
+#u2758.MuseLinkActive
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u2547.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
 #u1412

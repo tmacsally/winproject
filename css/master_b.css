@@ -3,82 +3,7 @@
 	background-color: #442715;
 }
 
-#u747
-{
-	position: relative;
-	background: transparent url("../images/bn_sh-shop_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u747:hover
-{
-	background: transparent url("../images/bn_sh-shop_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u747:active
-{
-	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u747.MuseLinkActive
-{
-	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u748
-{
-	position: relative;
-	background: transparent url("../images/bn_history-history_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u748:hover
-{
-	background: transparent url("../images/bn_history-history_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u748:active
-{
-	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u748.MuseLinkActive
-{
-	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u749
-{
-	position: relative;
-	background: transparent url("../images/bn_oder-oder_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u749:hover
-{
-	background: transparent url("../images/bn_oder-oder_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u749:active
-{
-	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u749.MuseLinkActive
-{
-	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u739,#u743,#u741,#u745,#u2282,#u2285
+#u739,#u743,#u741,#u2282,#u2285
 {
 	background-color: transparent;
 	position: relative;
@@ -235,7 +160,7 @@
 	position: relative;
 }
 
-#u2310,#u2332,#u2325,#u2318,#u2345,#u2400,#u2401
+#u2310,#u2332,#u2325,#u2318,#u2345,#u745,#u2400,#u2401
 {
 	background-color: transparent;
 	position: relative;
@@ -350,6 +275,63 @@
 #u2436.MuseMenuActive #u2437
 {
 	background: url("../images/u2437-a.png") no-repeat 0px 0px;
+}
+
+#u2753
+{
+	position: relative;
+	background: transparent url("../images/bn_oder-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2753:hover
+{
+	background: transparent url("../images/bn_oder-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2753.MuseLinkActive
+{
+	background: transparent url("../images/bn_oder-order_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2754
+{
+	position: relative;
+	background: transparent url("../images/bn_shop-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2754:hover
+{
+	background: transparent url("../images/bn_shop-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2754.MuseLinkActive
+{
+	background: transparent url("../images/bn_shop-order_down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2755
+{
+	position: relative;
+	background: transparent url("../images/bn_history-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2755:hover
+{
+	background: transparent url("../images/bn_history-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2755.MuseLinkActive
+{
+	background: transparent url("../images/bn_history-order_down.png") no-repeat left top;
+	background-size: contain;
 }
 
 #u2174

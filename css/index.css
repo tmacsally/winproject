@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #BF58B5;
+	color: #0000FC;
+	background-color: #F7FCB9;
 }
 
 .html
@@ -52,9 +52,9 @@
 #u566
 {
 	z-index: 70;
-	min-height: 125px;
+	min-height: 142px;
 	background-color: #442715;
-	padding-bottom: 25px;
+	padding-bottom: 8px;
 }
 
 #u602
@@ -91,193 +91,32 @@
 	left: 681px;
 }
 
+#pu611
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	margin-left: 771px;
+}
+
 #u611
 {
 	z-index: 81;
 	width: 75px;
 	background-color: transparent;
+	margin-left: 21px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 792px;
-}
-
-#u622
-{
-	z-index: 85;
-	width: 95px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 894px;
-}
-
-#u566-bw
-{
-	z-index: 70;
-	min-height: 125px;
-}
-
-#u584
-{
-	z-index: 71;
-	width: 171px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 291px;
-	left: 65px;
-}
-
-#u590
-{
-	z-index: 73;
-	width: 218px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 150px;
-	left: 158px;
-}
-
-#u595
-{
-	z-index: 75;
-	width: 315px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 175px;
-	left: 740px;
-}
-
-#u595_img
-{
-	margin-right: -1px;
-}
-
-#u578
-{
-	z-index: 77;
-	width: 604px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 185px;
-	left: 270px;
-}
-
-#u661
-{
-	z-index: 87;
-	width: 123px;
-	height: 42px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
-	left: 880px;
-	background: transparent url("../images/bn_sh-shop_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u661:hover
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 95px -10000px 0px 0px;
-	background: transparent url("../images/bn_sh-shop_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u661:active
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 95px -10000px 0px 0px;
-	background: transparent url("../images/bn_sh-shop_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u677
-{
-	z-index: 88;
-	width: 123px;
-	height: 42px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 96px;
-	left: 770px;
-	background: transparent url("../images/bn_history-history_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u677:hover
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 96px -10000px 0px 0px;
-	background: transparent url("../images/bn_history-history_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u677:active
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 96px -10000px 0px 0px;
-	background: transparent url("../images/bn_history-history_down.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u693
-{
-	z-index: 89;
-	width: 123px;
-	height: 42px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
-	left: 659px;
-	background: transparent url("../images/bn_oder-oder_normal.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u693:hover
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 95px -10000px 0px 0px;
-	background: transparent url("../images/bn_oder-oder_over.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u693:active
-{
-	width: 123px;
-	height: 42px;
-	min-height: 0px;
-	margin: 95px -10000px 0px 0px;
-	background: transparent url("../images/bn_oder-oder_down.png") no-repeat left top;
-	background-size: contain;
 }
 
 #menuu2464
 {
-	z-index: 129;
+	z-index: 126;
 	width: 117px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-top: 11px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 104px;
-	left: 776px;
 }
 
 #u2467-3
@@ -453,9 +292,75 @@
 	background: url("../images/u2488-a.png") no-repeat 0px 0px;
 }
 
+#u622
+{
+	z-index: 85;
+	width: 95px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 894px;
+}
+
+#u566-bw
+{
+	z-index: 70;
+	min-height: 142px;
+}
+
+#u584
+{
+	z-index: 71;
+	width: 171px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 291px;
+	left: 65px;
+}
+
+#u590
+{
+	z-index: 73;
+	width: 218px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 150px;
+	left: 158px;
+}
+
+#u595
+{
+	z-index: 75;
+	width: 315px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 175px;
+	left: 740px;
+}
+
+#u595_img
+{
+	margin-right: -1px;
+}
+
+#u578
+{
+	z-index: 77;
+	width: 604px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 185px;
+	left: 270px;
+}
+
 #menuu2507
 {
-	z-index: 162;
+	z-index: 159;
 	width: 117px;
 	border-style: none;
 	border-color: transparent;
@@ -463,7 +368,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 105px;
-	left: 886px;
+	left: 887px;
 }
 
 #u2465,#u2508
@@ -623,6 +528,75 @@
 	background: url("../images/u2528-a.png") no-repeat 0px 0px;
 }
 
+#u2705
+{
+	z-index: 188;
+	width: 138px;
+	height: 47px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 654px;
+	background: transparent url("../images/bn_oder-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2705:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 95px -10000px 0px 0px;
+	background: transparent url("../images/bn_oder-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2721
+{
+	z-index: 189;
+	width: 138px;
+	height: 47px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 876px;
+	background: transparent url("../images/bn_shop-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2721:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 95px -10000px 0px 0px;
+	background: transparent url("../images/bn_shop-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2737
+{
+	z-index: 190;
+	width: 138px;
+	height: 47px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 756px;
+	background: transparent url("../images/bn_history-order_normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2737:hover
+{
+	width: 138px;
+	height: 47px;
+	min-height: 0px;
+	margin: 95px -10000px 0px 0px;
+	background: transparent url("../images/bn_history-order_over.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u783
 {
 	z-index: 4;
@@ -648,7 +622,7 @@
 
 #u808-4
 {
-	z-index: 90;
+	z-index: 87;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -1px;
@@ -668,7 +642,7 @@
 
 #u2633
 {
-	z-index: 187;
+	z-index: 184;
 	width: 121px;
 	background-color: transparent;
 	margin-left: 65px;
@@ -677,7 +651,7 @@
 
 #u810-4
 {
-	z-index: 94;
+	z-index: 91;
 	display: block;
 	vertical-align: top;
 	margin-top: 16px;
@@ -694,7 +668,7 @@
 
 #u2638
 {
-	z-index: 189;
+	z-index: 186;
 	width: 136px;
 	background-color: transparent;
 	margin-left: 62px;
@@ -703,7 +677,7 @@
 
 #u811-4
 {
-	z-index: 98;
+	z-index: 95;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -722,14 +696,14 @@
 
 #u812-4
 {
-	z-index: 102;
+	z-index: 99;
 	width: 329px;
 	min-height: 54px;
 	background-color: transparent;
 	color: #998675;
+	line-height: 48px;
 	font-size: 40px;
 	text-align: center;
-	line-height: 48px;
 	font-family: amaranth, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -740,7 +714,7 @@
 
 #u2628
 {
-	z-index: 185;
+	z-index: 182;
 	width: 141px;
 	background-color: transparent;
 	position: relative;
@@ -853,7 +827,7 @@
 
 #u869
 {
-	z-index: 106;
+	z-index: 103;
 	width: 221px;
 	background-color: transparent;
 	position: relative;
@@ -864,7 +838,7 @@
 
 #u875
 {
-	z-index: 108;
+	z-index: 105;
 	width: 221px;
 	background-color: transparent;
 	position: relative;
@@ -875,7 +849,7 @@
 
 #u880
 {
-	z-index: 110;
+	z-index: 107;
 	width: 221px;
 	background-color: transparent;
 	position: relative;
@@ -903,14 +877,14 @@
 
 #u2227-4
 {
-	z-index: 121;
+	z-index: 118;
 	width: 353px;
 	min-height: 72px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 42px;
 	font-size: 35px;
 	text-align: center;
-	line-height: 42px;
 	font-family: amaranth, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -926,7 +900,7 @@
 	height: 289px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 112px;
+	margin-top: 111px;
 	left: 416px;
 }
 
@@ -965,9 +939,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 	filter: alpha(opacity=40);
 	padding: 6px;
-	color: #C7B299;
-	font-size: 21px;
 	line-height: 21px;
+	font-size: 21px;
+	color: #C7B299;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: normal;
 	position: relative;
@@ -1079,8 +1053,8 @@
 	filter: alpha(opacity=40);
 	padding: 6px;
 	color: #C7B299;
-	font-size: 20px;
 	line-height: 20px;
+	font-size: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1164,8 +1138,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #C7B299;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1201,8 +1175,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #C7B299;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1238,8 +1212,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #C7B299;
-	font-size: 30px;
 	line-height: 30px;
+	font-size: 30px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1326,8 +1300,8 @@
 	filter: alpha(opacity=40);
 	padding: 6px;
 	color: #C7B299;
-	font-size: 18px;
 	line-height: 18px;
+	font-size: 18px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1419,7 +1393,7 @@
 
 #u2226-8
 {
-	z-index: 113;
+	z-index: 110;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -1430,7 +1404,7 @@
 
 #u2219
 {
-	z-index: 112;
+	z-index: 109;
 	min-height: 65px;
 	background-color: #433813;
 	padding-bottom: 35px;
@@ -1447,7 +1421,7 @@
 
 #u2274-4
 {
-	z-index: 125;
+	z-index: 122;
 	width: 472px;
 	min-height: 29px;
 	background-color: transparent;
@@ -1465,7 +1439,7 @@
 
 #u2219-bw
 {
-	z-index: 112;
+	z-index: 109;
 	min-height: 65px;
 }
 

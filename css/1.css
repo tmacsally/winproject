@@ -1,7 +1,7 @@
 .version._1 /* version checker */
 {
-	color: #000019;
-	background-color: #43E1B1;
+	color: #0000FB;
+	background-color: #DEDF17;
 }
 
 .html
@@ -49,7 +49,7 @@
 	left: 120px;
 }
 
-#u2557
+#u2761
 {
 	z-index: 36;
 	width: 80px;
@@ -58,22 +58,22 @@
 	left: 682px;
 }
 
-#u2555
+#u2759
 {
 	z-index: 34;
 	width: 71px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 786px;
+	left: 792px;
 }
 
-#u2559
+#u2763
 {
 	z-index: 38;
 	width: 89px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 883px;
+	left: 888px;
 }
 
 #u2552-bw
@@ -82,98 +82,66 @@
 	min-height: 101px;
 }
 
-#u2561
+#u2765
 {
 	z-index: 40;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 870px;
+	margin-top: 63px;
+	left: 648px;
 }
 
-#u2561:hover
+#u2765:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2561:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u2562
+#u2766
 {
 	z-index: 41;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 67px;
-	left: 765px;
+	margin-top: 63px;
+	left: 864px;
 }
 
-#u2562:hover
+#u2765.MuseLinkActive,#u2766:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2562:active
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u2562.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 67px -10000px 0px 0px;
-}
-
-#u2563
+#u2767
 {
 	z-index: 42;
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 661px;
+	margin-top: 63px;
+	left: 756px;
 }
 
-#u2561.MuseLinkActive,#u2563:hover
+#u2766.MuseLinkActive,#u2767:hover
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
-#u2563:active
+#u2767.MuseLinkActive
 {
-	width: 115px;
-	height: 39px;
+	width: 138px;
+	height: 47px;
 	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
-}
-
-#u2563.MuseLinkActive
-{
-	width: 115px;
-	height: 39px;
-	min-height: 0px;
-	margin: 66px -10000px 0px 0px;
+	margin: 63px -10000px 0px 0px;
 }
 
 #pu1322
